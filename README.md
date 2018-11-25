@@ -13,9 +13,9 @@ Use CCTV live stream & apply modern Deep Learning techniques to determine which 
 
 [ParkMate Detector](https://github.com/Digma/hackjunction-free-parking-spot-detector)
 
-![Annotated parking lot image](https://lh3.googleusercontent.com/5llAfXijTTv307ig66-x9Lt4YGm-cwK23gDww_0N6zU8pJ1bNY2TCy0nC0uMzUfoZSzHRKfRkQPYdpbeJkQV=w2880-h1480-rw)
+![Annotated parking lot image](https://lh3.googleusercontent.com/5llAfXijTTv307ig66-x9Lt4YGm-cwK23gDww_0N6zU8pJ1bNY2TCy0nC0uMzUfoZSzHRKfRkQPYdpbeJkQV=w2880-h1480-rw | width=200)
 
-### Mobile App
+### Seamless Parking Navigation Mobile App
 Imagine mobile navigation app that takes care of guiding you to the nearest free spot!
 
 [ParkMate Mobile App](https://github.com/adamstyrc/park-mate-android)
