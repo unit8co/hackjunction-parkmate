@@ -10,8 +10,8 @@ Finding an empty parking space can be hard!
 
 ## Solution
 
-* [Free Parking Spaces Detector with Open API](https://github.com/Digma/hackjunction-free-parking-spot-detector)
-* [Seamless Parking Navigation Mobile App](https://github.com/adamstyrc/park-mate-android)
+* [ParkMate Parking Detector](https://github.com/Digma/hackjunction-free-parking-spot-detector)
+* [ParkMate Seamless Parking App](https://github.com/adamstyrc/park-mate-android)
 
 ### Free Parking Spaces Detector with Open API
 Use CCTV live stream & apply modern Deep Learning techniques to determine which parking spots are free/occupied.
