@@ -1,6 +1,8 @@
 # ParkMate
 Better way to manage parking spaces &amp; navigation to them
 
+[Presentation](https://docs.google.com/presentation/d/1asIUhsHXBUKXVI5UhxzlT8ia2kIwz07WbGd-FLHV-gY)
+
 ## Problem
 Finding an empty parking space can be hard!
 
